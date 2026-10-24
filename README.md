@@ -1,6 +1,6 @@
 # Project documentation for presentation
 
-This standalone folder contains the 12-section project documentation website,
+This standalone folder contains the 13-section project documentation website,
 student-friendly explanations, diagrams, saved research comparisons, and documents.
 It does not include the simulator, source archive, credentials, or event database.
 Saved comparisons are a snapshot, not live simulation results.

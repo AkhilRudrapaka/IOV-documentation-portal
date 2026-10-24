@@ -56,7 +56,7 @@ def main(argv=None):
     with server:
         print("Project Website / Documentation Portal", flush=True)
         print(f"Open http://127.0.0.1:{args.port}/", flush=True)
-        print("12 sections: background, design, algorithms, workflow, results, source, and future work.", flush=True)
+        print("13 sections: background, design, algorithms, workflow, results, source, contributors, and future work.", flush=True)
         print("Press Ctrl+C to stop.", flush=True)
         try:
             server.serve_forever()
